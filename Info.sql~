@@ -1,0 +1,184 @@
+
+
+DROP TABLE IF EXISTS Changes,
+					Teaches,
+					prof_qual,
+					c_pre,
+					Phone,
+					Enrolled,
+					Class_Section,
+					Professor,
+					Classes,
+					Student;
+					 
+					 
+					 
+CREATE TABLE Student (
+	StudentID	INT				NOT NULL,
+    FirstName   VARCHAR(14)     NOT NULL,
+	last_name   VARCHAR(16)     NOT NULL,
+    DOB  		DATE            NOT NULL,
+    Major       VARCHAR(30)  	NOT NULL, 
+    PRIMARY KEY (StudentID)
+);
+
+CREATE TABLE Classes (
+   c_ID      	VARCHAR(10)      NOT NULL,
+   credits		INT				 NOT NULL,
+   Description  VARCHAR(100)     NOT NULL,
+   PRIMARY KEY (c_ID)
+);
+ 
+CREATE TABLE Professor(
+	Emp_ID		INT				NOT NULL,
+	F_Name		VARCHAR(15)		NOT NULL,
+	L_Name		VARCHAR(15)		NOT NULL,
+	Dept_Code	VARCHAR(5)		NOT NULL,
+	PRIMARY KEY (Emp_ID)
+	
+);
+
+CREATE TABLE Class_Section(
+	c_ID		VARCHAR(10)		NOT NULL,
+	SecNO		INT				NOT NULL,
+	Semester	VARCHAR(4)		NOT NULL,
+	StartTime	TIME			NOT NULL,
+	EndTime		TIME			NOT NULL,
+	DAYS		VARCHAR(6)		NOT NULL,
+	Classroom	VARCHAR(10)		NOT NULL,
+	FOREIGN KEY (c_ID) REFERENCES Classes (c_ID),
+	PRIMARY KEY (c_ID, SecNO, Semester)
+);
+
+CREATE TABLE Enrolled(
+	StudentID	INT				NOT NULL,
+	c_ID		VARCHAR(10)		NOT NULL,
+	SecNO		INT				NOT NULL,
+	Semester	VARCHAR(4)		NOT NULL,
+	Grade		CHAR,
+	DD			date,			
+	FOREIGN KEY (StudentID)  REFERENCES Student   (StudentID)  ON DELETE CASCADE,	
+    FOREIGN KEY (c_ID, SecNO, Semester) REFERENCES Class_Section (c_ID, SecNO, Semester) ON DELETE CASCADE
+);
+
+
+CREATE TABLE Phone (
+	StudentID	INT				NOT NULL,
+	Pnumber		VARCHAR(14)		NOT NULL,
+	Phone_Type  VARCHAR(1)     	NOT NULL,
+	FOREIGN  KEY (StudentID) REFERENCES Student (StudentID) ON DELETE CASCADE,
+    PRIMARY KEY (StudentID, Pnumber)
+);
+
+
+CREATE TABLE c_pre(
+	c_ID		VARCHAR(10)		NOT NULL,
+	preq		VARCHAR(10)		NOT NULL,
+	FOREIGN KEY (c_ID) REFERENCES Classes(c_ID) ON DELETE CASCADE,
+	FOREIGN KEY (preq) REFERENCES Classes(c_ID) ON DELETE CASCADE
+);
+
+
+CREATE TABLE prof_qual(
+	Emp_ID		INT					NOT NULL,
+	c_ID		VARCHAR(10)			NOT NULL,
+	FOREIGN KEY (Emp_ID) REFERENCES Professor (Emp_ID) ON DELETE CASCADE,
+	FOREIGN KEY (c_ID) REFERENCES Classes (c_ID) ON DELETE CASCADE
+
+);
+
+CREATE TABLE Teaches(
+	c_ID		VARCHAR(10)		NOT NULL,
+	SecNO		INT				NOT NULL,
+	Semester	VARCHAR(4)		NOT NULL,
+	Emp_ID		INT				NOT NULL,
+	FOREIGN KEY (c_ID, SecNO, Semester) REFERENCES Class_Section (c_ID, SecNO, Semester) ON DELETE CASCADE,
+	FOREIGN KEY (Emp_ID) REFERENCES Professor (Emp_ID) ON DELETE CASCADE
+);
+CREATE TABLE Changes(
+	ID			INT				NOT NULL	AUTO_INCREMENT,
+	change_type	VARCHAR(30)		NOT NULL,
+	table_name	varchar(30)		NOT NULL,
+	date_time	DATETIME		NOT NULL,
+	PRIMARY KEY (ID)
+);
+
+SELECT 'LOADING Student' as 'INFO';
+source student.txt;
+SELECT 'LOADING Classes' as 'INFO';
+source Classes.txt;
+SELECT 'LOADING Professor' as 'INFO';
+source Professor.txt;
+SELECT 'LOADING Class_Section' as 'INFO';
+source Sections.txt;
+SELECT 'LOADING Enrolled' as 'INFO';
+source Enrolled.txt;
+SELECT 'LOADING Phone' as 'INFO';
+source Phone.txt;
+SELECT 'LOADING c_pre' as 'INFO';
+source prereq.txt;
+SELECT 'LOADING prof_qual' as 'INFO';
+source prof_qual.txt;
+SELECT 'LOADING Teaches' as 'INFO';
+source Teaches.sql;
+
+
+---add section to a class
+CREATE TRIGGER ADDSEC
+	AFTER INSERT ON Class_Section
+	FOR EACH ROW
+		INSERT INTO Changes ( change_type, table_name, date_time)
+			VALUES ('INSERT', 'Class_Section' ,NOW()); 
+			
+
+---delete a section to a class, 
+CREATE TRIGGER DELSEC
+	AFTER DELETE ON Class_Section
+	FOR EACH ROW
+		INSERT INTO Changes ( change_type, table_name, date_time)
+			VALUES ('DELETE', 'Class_Section' ,NOW());
+			
+---modifies an enrollment(insert), 
+CREATE TRIGGER ADDENR
+	AFTER INSERT ON Enrolled
+	FOR EACH ROW
+		INSERT INTO Changes ( change_type, table_name, date_time)
+			VALUES ('INSERT', 'Enrolled' ,NOW()); 
+
+---modifies an enrollment(delete),
+CREATE TRIGGER DELENR
+	AFTER DELETE ON Enrolled
+	FOR EACH ROW
+		INSERT INTO Changes ( change_type, table_name, date_time)
+			VALUES ('DELETE', 'Enrolled' ,NOW());
+			
+---modifies an enrollment(update),
+CREATE TRIGGER UPENR
+	AFTER UPDATE ON Enrolled
+	FOR EACH ROW
+		INSERT INTO Changes ( change_type, table_name, date_time)
+			VALUES ('UPDATE', 'Enrolled' ,NOW());
+			
+---or adds student
+CREATE TRIGGER ADDSTU
+	AFTER INSERT ON Student
+	FOR EACH ROW
+		INSERT INTO Changes ( change_type, table_name, date_time)
+			VALUES ('INSERT', 'Student' ,NOW()); 
+			
+
+---deletes a student.
+CREATE TRIGGER DELSTU
+	AFTER DELETE ON Student
+	FOR EACH ROW
+		INSERT INTO Changes ( change_type, table_name, date_time)
+			VALUES ('DELETE', 'Student' ,NOW());
+			
+CREATE OR REPLACE SQL SECURITY INVOKER VIEW smarg AS 
+SELECT Teaches.c_ID, Teaches.Semester,
+GROUP_CONCAT(CONCAT(Professor.F_Name, ' ', Professor.L_Name))
+AS 'Name', COUNT(*) 
+FROM Teaches 
+LEFT JOIN Professor
+ON Teaches.Emp_ID=Professor.Emp_ID 
+GROUP BY c_ID, Semester;

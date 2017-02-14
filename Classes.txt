@@ -1,0 +1,17 @@
+INSERT INTO `Classes` VALUES
+('BA101',3,'Introduction to Accounting'),
+('BA102',3,'Accounting 2, BA101'),
+('CS160',4,'Introduction to Computer Science'),
+('CS161',4,'More Intro to Computer Science'),
+('CS200',4,'Data Structures'),
+('CS220',4,'Intro to C'),
+('CS253',4,'Intro to C++'),
+('CS270',3,'Systems Architecture'),
+('CS370',3,'Systems Software'),
+('CS420',4,'Intro to Algorithms'),
+('CS430',3,'Intro to Database Theory'),
+('CS451',3,'Intro to Operating Systems'),
+('M160',5,'Calculus 1'),
+('M161',4,'Calculus 2'),
+('M200',3,'Relational Algebra'),
+('M201',3,'Linear Algebra');

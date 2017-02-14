@@ -1,0 +1,10 @@
+SELECT 'LOADING student' as 'INFO';
+source load_students.dump ;
+SELECT 'LOADING phone' as 'INFO';
+source load_phone.dump ;
+SELECT 'LOADING c_section' as 'INFO';
+source load_class_section.dump ;
+SELECT 'LOADING u_class' as 'INFO';
+source load_university_class.dump ;
+SELECT 'LOADING enrolled' as 'INFO';
+source load_enrolled.dump ;

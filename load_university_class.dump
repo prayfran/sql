@@ -1,0 +1,16 @@
+INSERT INTO `u_class` VALUES 
+('BA101', 3, 'Introduction to Accounting', NULL),
+('BA102', 3, 'Accounting 2', 'BA101'),
+('CS160', 4, 'Introduction to Computer Science', NULL),
+('CS161', 4, 'More Intro to Computer Science', 'CS160'),
+('CS200', 4, 'Data Structures', 'CS161'),
+('CS220', 4, 'Intro to C', 'CS200'),
+('CS253', 4, 'Intro to C++', 'CS200'),
+('CS270', 3, 'Systems Architecture', 'CS253'),
+('CS370', 3, 'Systems Software', 'CS270, CS220'),
+('CS420', 4, 'Intro to Algorithms', 'M161, M201, CS200'),
+('CS430', 3, 'Intro to Database Theory', 'CS370, M200'),
+('CS451', 3, 'Intro to Operating Systems', 'CS370'),
+('M160', 5, 'Calculus 1', NULL),
+('M161', 4, 'Calculus 2', 'M160'),
+('M200', 3, 'Relational Algebra', 'M161');

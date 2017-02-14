@@ -1,0 +1,459 @@
+URL: jdbc:mysql://faure/prayfran
+Connection: com.mysql.jdbc.JDBC4Connection@20ad9418
+THIS
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+The Teacher 205 is not qualified to teach CS420
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+The Teacher 302 is not qualified to teach M160
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+Added A Section
+Added A New Relation between a teacher and a class
+
+BA101 c_ID,  3 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  101 Emp_ID,  101 Classroom
+BA101 c_ID,  3 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  101 Emp_ID,  101 Classroom
+BA101 c_ID,  3 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  102 Emp_ID,  101 Classroom
+BA101 c_ID,  3 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  102 Emp_ID,  101 Classroom
+BA101 c_ID,  3 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  101 Emp_ID,  101 Classroom
+BA101 c_ID,  3 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  101 Emp_ID,  101 Classroom
+BA101 c_ID,  3 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  101 Emp_ID,  101 Classroom
+BA102 c_ID,  3 credits,  1 SecNO,  09:00:00 StartTime,  09:50:00 EndTime,  MWF DAYS,  102 Emp_ID,  102 Classroom
+BA102 c_ID,  3 credits,  1 SecNO,  09:00:00 StartTime,  09:50:00 EndTime,  MWF DAYS,  102 Emp_ID,  102 Classroom
+BA102 c_ID,  3 credits,  1 SecNO,  09:00:00 StartTime,  09:50:00 EndTime,  MWF DAYS,  101 Emp_ID,  102 Classroom
+BA102 c_ID,  3 credits,  1 SecNO,  09:00:00 StartTime,  09:50:00 EndTime,  MWF DAYS,  101 Emp_ID,  102 Classroom
+BA102 c_ID,  3 credits,  1 SecNO,  09:00:00 StartTime,  09:50:00 EndTime,  MWF DAYS,  102 Emp_ID,  102 Classroom
+BA102 c_ID,  3 credits,  1 SecNO,  09:00:00 StartTime,  09:50:00 EndTime,  MWF DAYS,  102 Emp_ID,  102 Classroom
+BA102 c_ID,  3 credits,  1 SecNO,  09:00:00 StartTime,  09:50:00 EndTime,  MWF DAYS,  102 Emp_ID,  102 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  209 Emp_ID,  202 Classroom
+CS160 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  08:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  201 Classroom
+CS160 c_ID,  4 credits,  2 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  202 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  206 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  206 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  206 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  206 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  206 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  206 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  206 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  206 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  206 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  206 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  201 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  201 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  201 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  201 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  201 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  201 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  201 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  202 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS161 c_ID,  4 credits,  1 SecNO,  12:00:00 StartTime,  12:50:00 EndTime,  MWF DAYS,  208 Emp_ID,  206 Classroom
+CS161 c_ID,  4 credits,  2 SecNO,  12:00:00 StartTime,  01:15:00 EndTime,  TTh DAYS,  208 Emp_ID,  208 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS200 c_ID,  4 credits,  1 SecNO,  10:00:00 StartTime,  11:15:00 EndTime,  TTh DAYS,  207 Emp_ID,  207 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  203 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  209 Classroom
+CS220 c_ID,  4 credits,  1 SecNO,  03:00:00 StartTime,  03:15:00 EndTime,  TTh DAYS,  209 Emp_ID,  209 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  210 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  210 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  210 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  210 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  210 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  210 Emp_ID,  204 Classroom
+CS253 c_ID,  4 credits,  1 SecNO,  08:00:00 StartTime,  09:15:00 EndTime,  TTh DAYS,  204 Emp_ID,  204 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS270 c_ID,  3 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  203 Emp_ID,  203 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  205 Emp_ID,  210 Classroom
+CS370 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  03:14:00 EndTime,  TTh DAYS,  210 Emp_ID,  210 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  202 Emp_ID,  205 Classroom
+CS430 c_ID,  3 credits,  1 SecNO,  04:00:00 StartTime,  04:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+CS451 c_ID,  3 credits,  1 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  205 Emp_ID,  205 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  301 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M160 c_ID,  5 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MTWThF DAYS,  303 Emp_ID,  301 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  301 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  1 SecNO,  01:00:00 StartTime,  01:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M161 c_ID,  4 credits,  2 SecNO,  02:00:00 StartTime,  02:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M200 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  302 Classroom
+M200 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  302 Classroom
+M200 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  302 Classroom
+M200 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  302 Classroom
+M200 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  302 Classroom
+M200 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  302 Classroom
+M200 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  302 Classroom
+M201 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  303 Classroom
+M201 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  303 Classroom
+M201 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M201 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom
+M201 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  303 Classroom
+M201 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  302 Emp_ID,  303 Classroom
+M201 c_ID,  3 credits,  1 SecNO,  10:00:00 StartTime,  10:50:00 EndTime,  MWF DAYS,  303 Emp_ID,  303 Classroom

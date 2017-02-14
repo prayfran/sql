@@ -1,0 +1,18 @@
+SELECT 'LOADING Student' as 'INFO';
+source student.txt;
+SELECT 'LOADING Classes' as 'INFO';
+source Classes.txt;
+SELECT 'LOADING Professor' as 'INFO';
+source Professor.txt;
+SELECT 'LOADING Class_Section' as 'INFO';
+source Sections.txt;
+SELECT 'LOADING Enrolled' as 'INFO';
+source Enrolled.txt;
+SELECT 'LOADING Phone' as 'INFO';
+source Phone.txt;
+SELECT 'LOADING c_pre' as 'INFO';
+source prereq.txt;
+SELECT 'LOADING prof_qual' as 'INFO';
+source prof_qual.txt;
+SELECT 'LOADING Teaches' as 'INFO';
+source Teaches.sql;

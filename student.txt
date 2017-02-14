@@ -1,0 +1,13 @@
+INSERT INTO `Student` VALUES
+(1000,'Wiley','Coyote','1961/9/10','CS'),
+(1100,'Bugs','Bunny','1990/6/24','BA'),
+(1200,'Olive','Oyl','1989/7/19','CIS'),
+(1300,'Alice','Wonderland','1989/7/19','H'),
+(1400,'Roger','Ramjet','1985/1/13','CD'),
+(1500,'Larry','Lujack','1940/6/6','JT'),
+(1600,'Thomas','Tankengine','1991/4/1','CS'),
+(1700,'Amber','Corwin','1970/12/1','PS'),
+(1800,'Dworkin','Barimen','1950/12/2','PS'),
+(1900,'Bel','Garion','1983/1/1','CS'),
+(2000,'Pol','Gara','1963/1/1,','S'),
+(2001,'Art','Clark','2001/12/6','CS');
